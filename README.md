@@ -2,13 +2,12 @@
 
 - 🔭 Hoje trabalho com vendas
 - 🌱 Estudando banco de dados
-- 📫 Contate-me no e-mail: facarlos90@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/facarlos90">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=facarlos90&count_private=true$show_icons=true&theme=cobalt"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facarlos90&layout=compact&theme=cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=facarlos90&count_private=true$show_icons=true&theme=cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facarlos90&layout=compact&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
