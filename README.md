@@ -1,7 +1,7 @@
 ## Oiii! Sou o Fabio Carlos...
 
-- 🔭 Hoje trabalho com vendas
-- 🌱 Estudando banco de dados
+- 🔭 Hoje trabalho com vendas.
+- 🌱 Estudando: Front-End
 - 😄 Pronouns: ele/dele
 
 <div>
